@@ -1,0 +1,25 @@
+{
+  "name": "express-ffmpeg",
+  "version": "1.0.0",
+  "description": "RTSP stream convert to flv express backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkontrolSY/express-ffmpeg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThinkontrolSY/express-ffmpeg/issues"
+  },
+  "homepage": "https://github.com/ThinkontrolSY/express-ffmpeg#readme",
+  "devDependencies": {
+    "express": "^4.18.1",
+    "express-ws": "^5.0.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "websocket-stream": "^5.5.2"
+  }
+}
